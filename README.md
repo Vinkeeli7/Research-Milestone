@@ -37,7 +37,7 @@ pip install PySide6 pandas numpy
 Launch the application:
 
 ```bash
-python main.py
+python3 main.py
 ```
 
 ## Project Scope
